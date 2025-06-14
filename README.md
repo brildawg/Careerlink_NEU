@@ -30,7 +30,10 @@ CLINK_NEU (Career Link: NEU Edition) is a career management portal designed for 
 
 ## 🛠 Setup Instructions
 
-1. Clone the repository:
+1. Clone or download the repository.
+2. Place the project folder inside your web server directory (e.g., `htdocs` for XAMPP).
+3. Start Apache and MySQL using XAMPP.
+4. Import the database (if provided) using phpMyAdmin.
 
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/CLINK_NEU.git
+> ⚠️ **Note:** The `vendor/` folder is not included in this repository.  
+> If you plan to run the full project, make sure to include the `vendor/` folder manually. This folder typically contains third-party PHP dependencies.
