@@ -30,7 +30,7 @@ CLINK_NEU (Career Link: NEU Edition) is a career management portal designed for 
 
 - **Front-end:** HTML, CSS, Bootstrap, JavaScript
 - **Back-end (Planned):** PHP, MySQL
-- **Tools:** Visual Studio Code, Git, XAMPP
+- **Tools:** Visual Studio Code, Git, XAMPP, Tesseract OCR, JMeter
 
 ## 🛠 Setup Instructions
 
