@@ -15,7 +15,7 @@ CLINK_NEU (Career Link: NEU Edition) is a career management portal designed for 
   - Browse available internships and job offers  
   - Apply to opportunities  
   - Job and internship recommendations based on user profile  
-  - Resume scanner
+  - Resume scanner (OCR and GPT Turbo) 
 
 - **Admin Dashboard**
   - Upload and manage job or internship opportunities
